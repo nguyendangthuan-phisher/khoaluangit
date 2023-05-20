@@ -1,0 +1,844 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "word": "abandon",
+      "pronunciation": "əˈbændən",
+      "meaning": "to leave or give up something or someone",
+      "translation": "bỏ, từ bỏ"
+    },
+    {
+      "id": 2,
+      "word": "ability",
+      "pronunciation": "əˈbɪləti",
+      "meaning": "the power or skill to do something",
+      "translation": "khả năng"
+    },
+    {
+      "id": 3,
+      "word": "abroad",
+      "pronunciation": "əˈbrɔːd",
+      "meaning": "in or to a foreign country",
+      "translation": "ở nước ngoài"
+    },
+    {
+      "id": 4,
+      "word": "absence",
+      "pronunciation": "ˈæbsəns",
+      "meaning": "the state of being away or not present",
+      "translation": "sự vắng mặt"
+    },
+    {
+      "id": 5,
+      "word": "absolute",
+      "pronunciation": "ˈæbsəluːt",
+      "meaning": "complete, total, or unlimited",
+      "translation": "tuyệt đối"
+    },
+    {
+      "id": 6,
+      "word": "absorb",
+      "pronunciation": "əbˈzɔːrb",
+      "meaning": "to take in or soak up",
+      "translation": "hấp thụ"
+    },
+    {
+      "id": 7,
+      "word": "abuse",
+      "pronunciation": "əˈbjuːs",
+      "meaning": "cruel or violent treatment of someone",
+      "translation": "lạm dụng, lộng hành"
+    },
+    {
+      "id": 8,
+      "word": "accent",
+      "pronunciation": "ˈæksent",
+      "meaning": "a way of pronouncing words",
+      "translation": "giọng, trọng âm"
+    },
+    {
+      "id": 9,
+      "word": "accept",
+      "pronunciation": "əkˈsept",
+      "meaning": "to agree to take something",
+      "translation": "chấp nhận"
+    },
+    {
+      "id": 10,
+      "word": "access",
+      "pronunciation": "ˈækses",
+      "meaning": "the right or opportunity to use or see something",
+      "translation": "truy cập"
+    },
+    {
+      "id": 11,
+      "word": "baby",
+      "pronunciation": "/ˈbeɪbi/",
+      "meaning": "a very young child",
+      "translation": "em bé"
+    },
+    {
+      "id": 12,
+      "word": "back",
+      "pronunciation": "/bæk/",
+      "meaning": "the part of the body opposite to the front",
+      "translation": "phía sau"
+    },
+    {
+      "id": 13,
+      "word": "bad",
+      "pronunciation": "/bæd/",
+      "meaning": "of poor quality or low standard",
+      "translation": "tồi tệ"
+    },
+    {
+      "id": 14,
+      "word": "bag",
+      "pronunciation": "/bæɡ/",
+      "meaning": "a container made of flexible material with an opening at the top",
+      "translation": "túi"
+    },
+    {
+      "id": 15,
+      "word": "ball",
+      "pronunciation": "/bɔːl/",
+      "meaning": "a solid or hollow spherical or egg-shaped object",
+      "translation": "quả bóng"
+    },
+    {
+      "id": 16,
+      "word": "bank",
+      "pronunciation": "/bæŋk/",
+      "meaning": "an institution for receiving, lending, and safeguarding money",
+      "translation": "ngân hàng"
+    },
+    {
+      "id": 17,
+      "word": "base",
+      "pronunciation": "/beɪs/",
+      "meaning": "the bottom part of something",
+      "translation": "cơ sở"
+    },
+    {
+      "id": 18,
+      "word": "basic",
+      "pronunciation": "/ˈbeɪsɪk/",
+      "meaning": "forming an essential foundation or starting point",
+      "translation": "cơ bản"
+    },
+    {
+      "id": 19,
+      "word": "basket",
+      "pronunciation": "/ˈbæskɪt/",
+      "meaning": "a container made of woven straw or other material",
+      "translation": "rổ"
+    },
+    {
+      "id": 20,
+      "word": "beach",
+      "pronunciation": "/biːtʃ/",
+      "meaning": "a pebbly or sandy shore",
+      "translation": "bãi biển"
+    },
+    {
+      "id": 21,
+      "word": "calculate",
+      "pronunciation": "/ˈkælkjuleɪt/",
+      "meaning": "determine mathematically",
+      "translation": "tính toán"
+    },
+    {
+      "id": 22,
+      "word": "calendar",
+      "pronunciation": "/ˈkælɪndər/",
+      "meaning": "a system of organizing time",
+      "translation": "lịch"
+    },
+    {
+      "id": 23,
+      "word": "camera",
+      "pronunciation": "/ˈkæmərə/",
+      "meaning": "an optical instrument used to capture images",
+      "translation": "máy ảnh"
+    },
+    {
+      "id": 24,
+      "word": "campaign",
+      "pronunciation": "/kæmˈpeɪn/",
+      "meaning": "a series of coordinated activities to achieve a goal",
+      "translation": "chiến dịch"
+    },
+    {
+      "id": 25,
+      "word": "candidate",
+      "pronunciation": "/ˈkændɪdeɪt/",
+      "meaning": "a person who applies for a job or is nominated for election",
+      "translation": "ứng viên"
+    },
+    {
+      "id": 26,
+      "word": "capacity",
+      "pronunciation": "/kəˈpæsəti/",
+      "meaning": "the amount that can be held or contained",
+      "translation": "dung tích"
+    },
+    {
+      "id": 27,
+      "word": "capture",
+      "pronunciation": "/ˈkæptʃər/",
+      "meaning": "take into one's possession or control",
+      "translation": "bắt giữ"
+    },
+    {
+      "id": 28,
+      "word": "carbohydrate",
+      "pronunciation": "/ˌkɑːbəʊˈhaɪdreɪt/",
+      "meaning": "a type of nutrient found in food",
+      "translation": "carbohydrate"
+    },
+    {
+      "id": 29,
+      "word": "career",
+      "pronunciation": "/kəˈrɪər/",
+      "meaning": "a profession or occupation",
+      "translation": "nghề nghiệp"
+    },
+    {
+      "id": 30,
+      "word": "cartoon",
+      "pronunciation": "/kɑːrˈtuːn/",
+      "meaning": "a humorous drawing or series of drawings",
+      "translation": "hoạt hình"
+    },
+    {
+      "id": 31,
+      "word": "database",
+      "pronunciation": "/ˈdeɪtəbeɪs/",
+      "meaning": "an organized collection of data",
+      "translation": "cơ sở dữ liệu"
+    },
+    {
+      "id": 32,
+      "word": "deadline",
+      "pronunciation": "/ˈdedlaɪn/",
+      "meaning": "a time limit for a task to be completed",
+      "translation": "hạn chót"
+    },
+    {
+      "id": 33,
+      "word": "debate",
+      "pronunciation": "/dɪˈbeɪt/",
+      "meaning": "a discussion of opposing views",
+      "translation": "cuộc tranh luận"
+    },
+    {
+      "id": 34,
+      "word": "decade",
+      "pronunciation": "/ˈdekeɪd/",
+      "meaning": "a period of ten years",
+      "translation": "thập kỷ"
+    },
+    {
+      "id": 35,
+      "word": "decimal",
+      "pronunciation": "/ˈdesɪm(ə)l/",
+      "meaning": "related to a system of numbers based on ten",
+      "translation": "thập phân"
+    },
+    {
+      "id": 36,
+      "word": "decline",
+      "pronunciation": "/dɪˈklaɪn/",
+      "meaning": "to become smaller, weaker, or less important",
+      "translation": "suy giảm"
+    },
+    {
+      "id": 37,
+      "word": "defeat",
+      "pronunciation": "/dɪˈfiːt/",
+      "meaning": "to win a victory over someone in a battle or game",
+      "translation": "đánh bại"
+    },
+    {
+      "id": 38,
+      "word": "defend",
+      "pronunciation": "/dɪˈfend/",
+      "meaning": "to protect someone or something from harm",
+      "translation": "bảo vệ"
+    },
+    {
+      "id": 39,
+      "word": "degree",
+      "pronunciation": "/dɪˈɡriː/",
+      "meaning": "a unit for measuring temperature, angles, or levels",
+      "translation": "độ"
+    },
+    {
+      "id": 40,
+      "word": "delete",
+      "pronunciation": "/dɪˈliːt/",
+      "meaning": "to remove something from a computer or device",
+      "translation": "xóa"
+    },
+    {
+      "id": 41,
+      "word": "earnest",
+      "pronunciation": "/ˈɜːnɪst/",
+      "meaning": "serious and sincere",
+      "translation": "nghiêm túc"
+    },
+    {
+      "id": 42,
+      "word": "earthquake",
+      "pronunciation": "/ˈɜːθkweɪk/",
+      "meaning": "a sudden shaking of the earth's surface",
+      "translation": "động đất"
+    },
+    {
+      "id": 43,
+      "word": "eclipse",
+      "pronunciation": "/ɪˈklɪps/",
+      "meaning": "an event in which the sun or moon is obscured",
+      "translation": "nhật thực, nguyệt thực"
+    },
+    {
+      "id": 44,
+      "word": "economics",
+      "pronunciation": "/ˌiːkəˈnɒmɪks/",
+      "meaning": "the study of production, consumption, and distribution of goods and services",
+      "translation": "kinh tế học"
+    },
+    {
+      "id": 45,
+      "word": "education",
+      "pronunciation": "/ˌedjʊˈkeɪʃn/",
+      "meaning": "the process of receiving or giving instruction",
+      "translation": "giáo dục"
+    },
+    {
+      "id": 46,
+      "word": "effect",
+      "pronunciation": "/ɪˈfekt/",
+      "meaning": "a result or consequence of an action or event",
+      "translation": "hiệu quả"
+    },
+    {
+      "id": 47,
+      "word": "efficient",
+      "pronunciation": "/ɪˈfɪʃənt/",
+      "meaning": "achieving maximum productivity with minimum wasted effort",
+      "translation": "hiệu quả, năng suất"
+    },
+    {
+      "id": 48,
+      "word": "election",
+      "pronunciation": "/ɪˈlekʃn/",
+      "meaning": "a formal decision-making process",
+      "translation": "bầu cử"
+    },
+    {
+      "id": 49,
+      "word": "electric",
+      "pronunciation": "/ɪˈlektrɪk/",
+      "meaning": "related to electricity",
+      "translation": "điện"
+    },
+    {
+      "id": 50,
+      "word": "electronic",
+      "pronunciation": "/ɪˌlekˈtrɒnɪk/",
+      "meaning": "related to devices that use electricity",
+      "translation": "điện tử"
+    },
+    {
+      "id": 51,
+      "word": "factor",
+      "pronunciation": "/ˈfæktər/",
+      "meaning": "a circumstance, fact or influence that contributes to a result or outcome",
+      "translation": "nhân tố"
+    },
+    {
+      "id": 52,
+      "word": "failure",
+      "pronunciation": "/ˈfeɪljər/",
+      "meaning": "a lack of success in achieving a goal",
+      "translation": "thất bại"
+    },
+    {
+      "id": 53,
+      "word": "familiar",
+      "pronunciation": "/fəˈmɪliər/",
+      "meaning": "well-known or easily recognized",
+      "translation": "quen thuộc"
+    },
+    {
+      "id": 54,
+      "word": "fantastic",
+      "pronunciation": "/fænˈtæstɪk/",
+      "meaning": "extraordinarily good or attractive",
+      "translation": "tuyệt vời"
+    },
+    {
+      "id": 55,
+      "word": "fashion",
+      "pronunciation": "/ˈfæʃn/",
+      "meaning": "a popular trend in clothing, accessories or behavior",
+      "translation": "thời trang"
+    },
+    {
+      "id": 56,
+      "word": "gallery",
+      "pronunciation": "/ˈɡæləri/",
+      "meaning": "a room or building for exhibiting works of art",
+      "translation": "phòng trưng bày"
+    },
+    {
+      "id": 57,
+      "word": "gamble",
+      "pronunciation": "/ˈɡæmbl/",
+      "meaning": "to play games of chance for money or to take a risky action in the hope of a desired result",
+      "translation": "đánh bạc"
+    },
+    {
+      "id": 58,
+      "word": "garbage",
+      "pronunciation": "/ˈɡɑrbɪdʒ/",
+      "meaning": "waste material or unwanted things",
+      "translation": "rác"
+    },
+    {
+      "id": 59,
+      "word": "generate",
+      "pronunciation": "/ˈdʒenəreɪt/",
+      "meaning": "to produce or create something",
+      "translation": "tạo ra"
+    },
+    {
+      "id": 60,
+      "word": "gesture",
+      "pronunciation": "/ˈdʒestʃər/",
+      "meaning": "a movement of part of the body, especially a hand or the head, to express an idea or meaning",
+      "translation": "cử chỉ"
+    },
+    {
+      "id": 61,
+      "word": "habit",
+      "pronunciation": "/ˈhæbɪt/",
+      "meaning": "a settled or regular tendency or practice",
+      "translation": "thói quen"
+    },
+    {
+      "id": 62,
+      "word": "hardship",
+      "pronunciation": "/ˈhɑrdʃɪp/",
+      "meaning": "a condition that is difficult to endure; suffering or deprivation",
+      "translation": "khó khăn"
+    },
+    {
+      "id": 63,
+      "word": "hazard",
+      "pronunciation": "/ˈhæzərd/",
+      "meaning": "a danger or risk",
+      "translation": "mối nguy hiểm"
+    },
+    {
+      "id": 64,
+      "word": "headquarters",
+      "pronunciation": "/ˌhedˈkwɔrtərz/",
+      "meaning": "the main office or center of control for an organization",
+      "translation": "trụ sở chính"
+    },
+    {
+      "id": 65,
+      "word": "heir",
+      "pronunciation": "/eər/",
+      "meaning": "a person who inherits or is entitled to inherit the property or rank of another",
+      "translation": "người thừa kế"
+    },
+    {
+      "id": 66,
+      "word": "icon",
+      "pronunciation": "/ˈaɪkɑn/",
+      "meaning": "a symbol or image that represents a concept or object",
+      "translation": "biểu tượng"
+    },
+    {
+      "id": 67,
+      "word": "ideal",
+      "pronunciation": "/aɪˈdiəl/",
+      "meaning": "perfect or most suitable",
+      "translation": "lý tưởng"
+    },
+    {
+      "id": 68,
+      "word": "ignite",
+      "pronunciation": "/ɪɡˈnaɪt/",
+      "meaning": "to set on fire or to catch fire",
+      "translation": "nổ, cháy"
+    },
+    {
+      "id": 69,
+      "word": "illiterate",
+      "pronunciation": "/ɪˈlɪtərət/",
+      "meaning": "unable to read or write",
+      "translation": "mù chữ"
+    },
+    {
+      "id": 70,
+      "word": "imagine",
+      "pronunciation": "/ɪˈmædʒɪn/",
+      "meaning": "to form a mental image or concept of something that is not present or that is not the case",
+      "translation": "tưởng tượng"
+    },
+    {
+      "id": 71,
+      "word": "keep",
+      "pronunciation": "/kiːp/",
+      "meaning": "to hold or retain something in one's possession",
+      "translation": "giữ"
+    },
+    {
+      "id": 72,
+      "word": "kind",
+      "pronunciation": "/kaɪnd/",
+      "meaning": "having or showing a friendly, generous, and considerate nature",
+      "translation": "tốt bụng"
+    },
+    {
+      "id": 73,
+      "word": "knowledge",
+      "pronunciation": "/ˈnɑːlɪdʒ/",
+      "meaning": "information, understanding, or skill that you get from experience or education",
+      "translation": "kiến thức"
+    },
+    {
+      "id": 74,
+      "word": "key",
+      "pronunciation": "/kiː/",
+      "meaning": "a small piece of metal used to open or close a lock",
+      "translation": "chìa khóa"
+    },
+    {
+      "id": 75,
+      "word": "kick",
+      "pronunciation": "/kɪk/",
+      "meaning": "to strike with the foot or feet",
+      "translation": "đá"
+    },
+    {
+      "id": 76,
+      "word": "love",
+      "pronunciation": "/lʌv/",
+      "meaning": "an intense feeling of deep affection",
+      "translation": "tình yêu"
+    },
+    {
+      "id": 77,
+      "word": "like",
+      "pronunciation": "/laɪk/",
+      "meaning": "to find someone or something attractive or enjoyable",
+      "translation": "thích"
+    },
+    {
+      "id": 78,
+      "word": "learn",
+      "pronunciation": "/lɜːrn/",
+      "meaning": "to gain knowledge or skill by studying, practicing, being taught, or experiencing something",
+      "translation": "học"
+    },
+    {
+      "id": 79,
+      "word": "live",
+      "pronunciation": "/laɪv/",
+      "meaning": "to remain alive",
+      "translation": "sống"
+    },
+    {
+      "id": 80,
+      "word": "loud",
+      "pronunciation": "/laʊd/",
+      "meaning": "making a lot of noise",
+      "translation": "to, ồn ào"
+    },
+    {
+      "id": 81,
+      "word": "make",
+      "pronunciation": "/meɪk/",
+      "meaning": "to produce or create something",
+      "translation": "làm"
+    },
+    {
+      "id": 82,
+      "word": "many",
+      "pronunciation": "/ˈmeni/",
+      "meaning": "a large number of something",
+      "translation": "nhiều"
+    },
+    {
+      "id": 83,
+      "word": "more",
+      "pronunciation": "/mɔːr/",
+      "meaning": "a greater or additional amount or degree",
+      "translation": "hơn"
+    },
+    {
+      "id": 84,
+      "word": "mind",
+      "pronunciation": "/maɪnd/",
+      "meaning": "the part of a person that enables them to think, feel, and perceive",
+      "translation": "tâm trí"
+    },
+    {
+      "id": 85,
+      "word": "mean",
+      "pronunciation": "/miːn/",
+      "meaning": "to intend to convey or refer to",
+      "translation": "ý nghĩa"
+    },
+    {
+      "id": 86,
+      "word": "most",
+      "pronunciation": "/moʊst/",
+      "meaning": "the majority of something",
+      "translation": "hầu hết"
+    },
+    {
+      "id": 87,
+      "word": "move",
+      "pronunciation": "/muːv/",
+      "meaning": "to change the position or location of something",
+      "translation": "di chuyển"
+    },
+    {
+      "id": 88,
+      "word": "music",
+      "pronunciation": "/ˈmjuːzɪk/",
+      "meaning": "an art form that involves sounds and rhythm",
+      "translation": "âm nhạc"
+    },
+    {
+      "id": 89,
+      "word": "must",
+      "pronunciation": "/mʌst/",
+      "meaning": "used to express obligation or necessity",
+      "translation": "phải"
+    },
+    {
+      "id": 90,
+      "word": "much",
+      "pronunciation": "/mʌtʃ/",
+      "meaning": "a large amount or quantity of something",
+      "translation": "nhiều"
+    },
+    {
+      "id": 91,
+      "word": "name",
+      "pronunciation": "/neɪm/",
+      "meaning": "a word or set of words by which a person, animal, place, or thing is known",
+      "translation": "tên"
+    },
+    {
+      "id": 92,
+      "word": "national",
+      "pronunciation": "/ˈnæʃənəl/",
+      "meaning": "relating to or characteristic of a nation",
+      "translation": "quốc gia"
+    },
+    {
+      "id": 93,
+      "word": "natural",
+      "pronunciation": "/ˈnætʃrəl/",
+      "meaning": "existing in or caused by nature; not made or caused by humankind",
+      "translation": "tự nhiên"
+    },
+    {
+      "id": 94,
+      "word": "need",
+      "pronunciation": "/niːd/",
+      "meaning": "require (something) because it is essential or very important",
+      "translation": "cần"
+    },
+    {
+      "id": 95,
+      "word": "never",
+      "pronunciation": "/ˈnevər/",
+      "meaning": "at no time in the past or future",
+      "translation": "không bao giờ"
+    },
+    {
+      "id": 96,
+      "word": "new",
+      "pronunciation": "/nuː/",
+      "meaning": "not existing before; made, introduced, or discovered recently or now for the first time",
+      "translation": "mới"
+    },
+    {
+      "id": 97,
+      "word": "next",
+      "pronunciation": "/neks(t)/",
+      "meaning": "coming immediately after the present one",
+      "translation": "kế tiếp"
+    },
+    {
+      "id": 98,
+      "word": "night",
+      "pronunciation": "/naɪt/",
+      "meaning": "the period of darkness in each twenty-four hours",
+      "translation": "đêm"
+    },
+    {
+      "id": 99,
+      "word": "no",
+      "pronunciation": "/nəʊ/",
+      "meaning": "not any",
+      "translation": "không"
+    },
+    {
+      "id": 100,
+      "word": "north",
+      "pronunciation": "/nɔːrθ/",
+      "meaning": "the direction that is on the left-hand side of a person facing the rising sun",
+      "translation": "phía bắc"
+    },
+    {
+      "id": 101,
+      "word": "passion",
+      "pronunciation": "/ˈpæʃn/",
+      "meaning": "a strong feeling of enthusiasm or excitement",
+      "translation": "đam mê"
+    },
+    {
+      "id": 102,
+      "word": "patient",
+      "pronunciation": "/ˈpeɪʃnt/",
+      "meaning": "a person who receives medical treatment or care",
+      "translation": "bệnh nhân"
+    },
+    {
+      "id": 103,
+      "word": "peace",
+      "pronunciation": "/piːs/",
+      "meaning": "a state of calm or tranquility, free from disturbance or conflict",
+      "translation": "hòa bình"
+    },
+    {
+      "id": 104,
+      "word": "performance",
+      "pronunciation": "/pərˈfɔːrməns/",
+      "meaning": "the action or process of carrying out a task or function",
+      "translation": "hiệu suất, thành tích"
+    },
+    {
+      "id": 105,
+      "word": "personality",
+      "pronunciation": "/ˌpɜːrsəˈnæləti/",
+      "meaning": "the combination of characteristics or qualities that form an individual's distinctive character",
+      "translation": "tính cách"
+    },
+    {
+      "id": 106,
+      "word": "photograph",
+      "pronunciation": "/ˈfəʊtəɡrɑːf/",
+      "meaning": "a picture made using a camera",
+      "translation": "bức ảnh, tấm hình"
+    },
+    {
+      "id": 107,
+      "word": "physician",
+      "pronunciation": "/fɪˈzɪʃn/",
+      "meaning": "a medical doctor",
+      "translation": "bác sĩ"
+    },
+    {
+      "id": 108,
+      "word": "picture",
+      "pronunciation": "/ˈpɪktʃər/",
+      "meaning": "a painting, drawing or photograph",
+      "translation": "bức tranh, bức ảnh"
+    },
+    {
+      "id": 109,
+      "word": "policy",
+      "pronunciation": "/ˈpɑːləsi/",
+      "meaning": "a course or principle of action adopted or proposed by a government or organization",
+      "translation": "chính sách"
+    },
+    {
+      "id": 110,
+      "word": "pressure",
+      "pronunciation": "/ˈpreʃər/",
+      "meaning": "the force exerted per unit area",
+      "translation": "áp lực"
+    },
+    {
+      "id": 111,
+      "word": "quality",
+      "pronunciation": "/ˈkwɒlɪti/",
+      "meaning": "the standard of something as measured against other things of a similar kind",
+      "translation": "chất lượng"
+    },
+    {
+      "id": 112,
+      "word": "quantity",
+      "pronunciation": "/ˈkwɒntəti/",
+      "meaning": "an amount or number of something, especially that is large",
+      "translation": "số lượng"
+    },
+    {
+      "id": 113,
+      "word": "queen",
+      "pronunciation": "/kwiːn/",
+      "meaning": "the female ruler of an independent state, especially one who inherits the position by right of birth",
+      "translation": "nữ hoàng"
+    },
+    {
+      "id": 114,
+      "word": "query",
+      "pronunciation": "/ˈkwɪəri/",
+      "meaning": "a question, especially one addressed to an official or organization",
+      "translation": "truy vấn, yêu cầu thông tin"
+    },
+    {
+      "id": 115,
+      "word": "quick",
+      "pronunciation": "/kwɪk/",
+      "meaning": "moving fast or doing something in a short time",
+      "translation": "nhanh"
+    },
+    {
+      "id": 116,
+      "word": "quiet",
+      "pronunciation": "/ˈkwaɪət/",
+      "meaning": "making very little noise",
+      "translation": "yên tĩnh"
+    },
+    {
+      "id": 117,
+      "word": "quiz",
+      "pronunciation": "/kwɪz/",
+      "meaning": "a test of knowledge, especially a brief informal test",
+      "translation": "bài kiểm tra"
+    },
+    {
+      "id": 118,
+      "word": "quotation",
+      "pronunciation": "/kwəʊˈteɪʃən/",
+      "meaning": "a group of words taken from a text or speech and repeated by someone other than the original author or speaker",
+      "translation": "trích dẫn"
+    },
+    {
+      "id": 119,
+      "word": "quote",
+      "pronunciation": "/kwəʊt/",
+      "meaning": "to repeat or copy out (a passage or remark) exactly",
+      "translation": "trích dẫn"
+    },
+    {
+      "id": 120,
+      "word": "quit",
+      "pronunciation": "/kwɪt/",
+      "meaning": "to leave or stop doing something",
+      "translation": "từ bỏ"
+    }
+  ]
+}

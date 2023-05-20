@@ -1,0 +1,46 @@
+{
+  "history": [
+    {
+      "id": 2,
+      "word": "ability",
+      "pronunciation": "əˈbɪləti",
+      "meaning": "the power or skill to do something",
+      "translation": "khả năng"
+    },
+    {
+      "id": 4,
+      "word": "absence",
+      "pronunciation": "ˈæbsəns",
+      "meaning": "the state of being away or not present",
+      "translation": "sự vắng mặt"
+    },
+    {
+      "id": 5,
+      "word": "absolute",
+      "pronunciation": "ˈæbsəluːt",
+      "meaning": "complete, total, or unlimited",
+      "translation": "tuyệt đối"
+    },
+    {
+      "id": 6,
+      "word": "absorb",
+      "pronunciation": "əbˈzɔːrb",
+      "meaning": "to take in or soak up",
+      "translation": "hấp thụ"
+    },
+    {
+      "id": 7,
+      "word": "abuse",
+      "pronunciation": "əˈbjuːs",
+      "meaning": "cruel or violent treatment of someone",
+      "translation": "lạm dụng, lộng hành"
+    },
+    {
+      "id": 8,
+      "word": "accent",
+      "pronunciation": "ˈæksent",
+      "meaning": "a way of pronouncing words",
+      "translation": "giọng, trọng âm"
+    }
+  ]
+}
